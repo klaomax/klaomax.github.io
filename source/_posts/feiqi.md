@@ -2,7 +2,8 @@ title: feiqi
 author: miracle_dyt
 tags:
   - 随笔
-categories: []
+categories:
+  - re
 date: 2020-12-13 02:06:00
 ---
 ## wdnmd ni da ye文件
