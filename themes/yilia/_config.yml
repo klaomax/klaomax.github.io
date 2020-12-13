@@ -3,8 +3,8 @@
 menu:
   主页: /
   随笔: /tags/随笔/
-  Reverse: /tags/re/index.html
-  game: /tags/game/index.html
+  Reverse: /tags/re/
+  game: /tags/game/
 
 # SubNav
 subnav:
