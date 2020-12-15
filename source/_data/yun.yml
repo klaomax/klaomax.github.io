@@ -41,15 +41,13 @@ fireworks:
 reward:
   enable: false
 
-# avatar:
-#   enable: true
-#   url: /images/avatar.jpg
-#   status:
-#    enable: true
-#    emoji: ✈️
-#    message: 
-#     - “永远相信美好的事情即将发生”
-#     - 芜湖
+avatar:
+  enable: true
+  url: /images/avatar.jpg
+  status:
+   enable: true
+   emoji: ✈️
+   message: 永远相信美好的事情即将发生
 
 cursor:
   enable: true
