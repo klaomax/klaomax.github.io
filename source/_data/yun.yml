@@ -31,7 +31,7 @@ notice:
   content: Thanks for your coming.
 
 fireworks:
-  enable: false
+  enable: true
   colors:
     - "102, 167, 221"
     - "62, 131, 225"
@@ -48,9 +48,9 @@ avatar:
   opacity: 1
   mickey_mouse: false
   status:
-    enable: true
-    emoji: ✈️
-    message: 永远相信美好的事情即将发生
+   enable: true
+   emoji: ✈️
+   message: 永远相信美好的事情即将发生
 
 cursor:
   enable: true
