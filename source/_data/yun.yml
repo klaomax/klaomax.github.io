@@ -50,10 +50,10 @@ avatar:
   status:
     enable: true
     emoji: ✈️
-    message: 永远相信美好的事情正在发生
+    message: 永远相信美好的事情即将发生
 
 cursor:
-  enable: false
+  enable: true
   default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
   pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
   text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
