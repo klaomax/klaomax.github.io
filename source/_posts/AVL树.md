@@ -47,7 +47,7 @@ AVL树又称平衡二叉搜索树，它能保证二叉树高度相对平衡，�
 
 1. LL右旋转
 
-   ![](D:%5Cblog%5CmiracleBlog%5Csource%5C_posts%5CAVL%E6%A0%91%5C20180408184858381.png)
+   ![](AVL%E6%A0%91/20180408184858381.png)
    
 
 
