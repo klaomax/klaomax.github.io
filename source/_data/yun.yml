@@ -49,5 +49,11 @@ avatar:
   mickey_mouse: false
   status:
     enable: true
-    emoji: false
+    emoji: ✈️
     message: 永远相信美好的事情正在发生
+
+cursor:
+  enable: false
+  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
+  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
