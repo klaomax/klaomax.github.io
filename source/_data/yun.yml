@@ -44,13 +44,12 @@ reward:
 avatar:
   enable: true
   url: /images/avatar.jpg
-  rounded: true
-  opacity: 1
-  mickey_mouse: false
   status:
    enable: true
    emoji: ✈️
-   message: 永远相信美好的事情即将发生
+   message: 
+    - “永远相信美好的事情即将发生”
+    - 芜湖
 
 cursor:
   enable: true
