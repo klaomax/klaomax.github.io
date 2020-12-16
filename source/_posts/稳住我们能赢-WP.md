@@ -125,7 +125,6 @@ for i in range(len(a)):
             break
 a=''.join(a)
 print(a)
-print(daxiaoxiezhuanhuan(a))
 
 ```
 
