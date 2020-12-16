@@ -1,9 +1,9 @@
 ---
+author: miracle
 title: 稳住我们能赢 WP
 date: 2020-12-16 18:54:08
-tags:Reverse
-categories:CTF
-author:miracle
+tags: Reverse
+categories: CTF
 ---
 
 学校靶场上的题，虽然讲过，记录一下我做的过程
