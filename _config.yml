@@ -45,16 +45,16 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
-  line_number: true
+  line_number: false
   tab_replace: ''
 
 # Home page setting
@@ -95,6 +95,8 @@ include:
 exclude:
 ignore:
 
+
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
@@ -102,22 +104,10 @@ theme: yun
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
+deploy: 
   type: git
   repo: https://github.com/klaomax/klaomax.github.io.git
   branch: main
-
-# 关闭 highlight
-highlight: 
-  enable: false
-# 启用 prism
-prismjs: 
-  enable: true
-  preprocess: true
-  line_number: false
-  tab_replace: ""
-
-
 
 jsonContent:
   meta: false
@@ -143,3 +133,12 @@ admin:
   secret: dytt2581473690
   deployCommand: 'admin_script.bat'
 
+# # 关闭 highlight 
+# highlight: 
+#   enable: false
+# # 启用 prism
+# prismjs: 
+#   enable: true
+#   preprocess: true
+#   line_number: false
+#   tab_replace: ""
