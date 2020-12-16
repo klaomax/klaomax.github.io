@@ -108,17 +108,17 @@ deploy:
   branch: main
 
 # 关闭 highlight
-highlight:
+highlight: 
   enable: false
 # 启用 prism
-prismjs:
+prismjs: 
   enable: true
   preprocess: true
   line_number: false
   tab_replace: ""
 
 
-  
+
 jsonContent:
   meta: false
   pages: false
