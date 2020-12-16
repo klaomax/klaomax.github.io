@@ -82,7 +82,7 @@ v3=len(v5)
 
 (还是要记着对一堆连续的字符串改成char数组)
 
-<img src="%E7%A8%B3%E4%BD%8F%E6%88%91%E4%BB%AC%E8%83%BD%E8%B5%A2-WP/11.PNG" alt="11" style="zoom:67%;" />
+<img src="%E7%A8%B3%E4%BD%8F%E6%88%91%E4%BB%AC%E8%83%BD%E8%B5%A2-WP/11.PNG" alt="11" style="zoom:75%;" />
 
 出现了模3，最后也明显出现了=，可以判断是base64换表
 
