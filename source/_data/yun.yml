@@ -17,11 +17,11 @@ social:
     link: /images/wechat.png
     icon: icon-wechat-2-line
     color: "1AAD19"
-    name: 哔哩哔哩动画
+  - name: 哔哩哔哩动画
     link: https://space.bilibili.com/6619746
     icon: icon-bilibili-line
     color: "#FF8EB3"
-    name: GitHub
+  - name: GitHub
     link: https://github.com/klaomax
     icon: icon-github-line
     color: "#181717"
