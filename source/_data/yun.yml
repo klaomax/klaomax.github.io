@@ -75,7 +75,7 @@ bg_image:
 
 colors:
   primary: '#24324E'
-  # bg: "#70AECA"
+  bg: 
   selection_bg: "#A2B0BF" # 选取文字时的背景色
   # 标签云中标签的起始色和结束色
   # tag_start_color:
