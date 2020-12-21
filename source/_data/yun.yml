@@ -25,6 +25,7 @@ social:
     link: https://github.com/klaomax
     icon: icon-github-line
     color: "#181717"
+
 banner:
    enable: true
    title:  阿米的Blog
