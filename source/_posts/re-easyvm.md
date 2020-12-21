@@ -65,7 +65,7 @@ print(a)
 
 `d3nIbqzBWy_r15d:`
 
-<img src="re-easyvm/9.PNG" style="zoom: 67%;" />
+<img src="re-easyvm/9.PNG" style="zoom: 80%;" />
 
 再md5一下，套上flag
 
