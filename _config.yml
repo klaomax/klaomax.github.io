@@ -133,3 +133,15 @@ admin:
   secret: dytt2581473690
   deployCommand: 'admin_script.bat'
 
+<<<<<<< HEAD
+=======
+# # 关闭 highlight 
+# highlight: 
+#   enable: false
+# # 启用 prism
+# prismjs: 
+#   enable: true
+#   preprocess: true
+#   line_number: false
+#   tab_replace: ""
+>>>>>>> 5b840d86e162373f000c037768b6c4ccd4406304

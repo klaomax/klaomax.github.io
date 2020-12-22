@@ -1,17 +1,29 @@
 mode: auto
-
+head:
+ css:
+    material: https://fonts.googleapis.com/icon?family=Material+Icons
+   
 social:
   - name: 网易云音乐
     link: https://music.163.com/#/user/home?id=114982283
     icon: icon-netease-cloud-music-line
     color: "#C10D0C"
   - name: QQ 1142348592
+    link: /images/qq.png
     icon: icon-qq-line
     color: "#12B7F5"
-  - name: 微信 15386625135
+  - name: 微信 wuxihud
+    link: /images/wechat.png
     icon: icon-wechat-2-line
     color: "1AAD19"
-
+  - name: 哔哩哔哩动画
+    link: https://space.bilibili.com/6619746
+    icon: icon-bilibili-line
+    color: "#FF8EB3"
+  - name: GitHub
+    link: https://github.com/klaomax
+    icon: icon-github-line
+    color: "#181717"
 
 banner:
    enable: true
@@ -61,3 +73,24 @@ codeblock:
   prismjs:
     light: default
     dark: tomorrow
+
+bg_image:
+  enable: true
+  url: /images/backgroud4.jpg
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 0.75
+
+colors:
+  primary: '#24324E'
+  # bg: false
+  selection_bg: "#A2B0BF" # 选取文字时的背景色
+  # 标签云中标签的起始色和结束色
+  # tag_start_color:
+  # tag_end_color:
+
+icon: material-icons face
+
+wordcloud:
+  enable: true
+  height: 350
