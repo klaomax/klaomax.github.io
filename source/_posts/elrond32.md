@@ -1,0 +1,34 @@
+---
+title: elrond32
+date: 2021-01-17 22:36:23
+tags: Reverse
+categories:	CTF
+---
+
+XCTF re elrond32
+
+ida找到关键函数
+
+![](elrond32/1%E6%8D%95%E8%8E%B7.PNG)
+
+sub8048414
+
+![](elrond32/2%E6%8D%95%E8%8E%B7.PNG)
+
+sub8048538
+
+![](elrond32/3%E6%8D%95%E8%8E%B7.PNG)
+
+逻辑很简单，sub8048538是个打印flag的函数，将v2和a1两个数组异或。a1由第一个函数得到，因为%8所以只需要取8个数。
+
+wp
+
+```python
+a2=[105,115,101,110,103,97,114,100]
+v2=[0x0F,0x1F,0x04,0x09,0x1C,0x12,0x42,0x09,0x0C,0x44,0x0D,0x07,0x09,0x06,0x2D,0x37,0x59,0x1E,0x00,0x59,0x0F,0x08,0x1C,0x23,0x36,0x07,0x55,0x02,0x0C,0x08,0x41,0x0A,0x14]
+for i in range(33):
+    print(chr(v2[i]^a2[i%8]),end="")
+```
+
+flag{s0me7hing_S0me7hinG_t0lki3n}
+
