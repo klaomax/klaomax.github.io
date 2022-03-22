@@ -13,6 +13,6 @@ categoriece: hexo
 
 配置文件_config.yml
 
-![屏幕截图 2022-03-22 224038.png](E:\Blog\klaomax.github.io\source\_posts\test-1\屏幕截图%202022-03-22%20224038.png)
+![屏幕截图 2022-03-22 224038.png](test-1/屏幕截图%202022-03-22%20224038.png)
 
 如图。（前提是电脑能ssh连接github）
